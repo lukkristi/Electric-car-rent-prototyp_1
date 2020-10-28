@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lukkristi_zadaca_1.FactroyMethod.AktivnostiConcreteCreator" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactroyMethod\AktivnostiConcreteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.FactroyMethod.CjenikConcreteCreator" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactroyMethod\CjenikConcreteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.FactroyMethod.EntitetiCreator" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactroyMethod\EntitetiCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.FactroyMethod.KapacitetiLokacijaConcreteCreator" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactroyMethod\KapacitetiLokacijaConcreteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.FactroyMethod.LokacijeConcreteCreator" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactroyMethod\LokacijeConcreteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.FactroyMethod.OsobeConcreteCreator" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactroyMethod\OsobeConcreteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.FactroyMethod.VozilaConcreteCreator" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactroyMethod\VozilaConcreteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Aktivnost" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIAgAAAAAAgAAAAAAAAAAAAAAAAAEAAAAAAAAEAAA=</HashCode>
+      <FileName>Entiteti\Aktivnost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Cjenik" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAAAAAAAQAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entiteti\Cjenik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Kapacitet_lokacije" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAQAEAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Entiteti\Kapacitet_lokacije.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Lokacija" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAgAAAAAAAAAAIAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entiteti\Lokacija.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Osoba" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entiteti\Osoba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Vozilo" Collapsed="true">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAiQAAAAAAAAAAAAAACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Entiteti\Vozilo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Entiteti.Entitet" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entiteti\Entitet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Entiteti.Tvrtka" Collapsed="true">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAAAQEAAAAAAAAAAAAAAAgCAAAAAAAAAA=</HashCode>
+      <FileName>Entiteti\Tvrtka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Program" Collapsed="true">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lukkristi_zadaca_1.Parametri" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parametri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

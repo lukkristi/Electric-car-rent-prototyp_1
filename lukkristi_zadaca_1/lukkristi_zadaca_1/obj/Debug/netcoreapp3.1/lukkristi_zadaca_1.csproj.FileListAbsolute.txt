@@ -1,0 +1,12 @@
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\bin\Debug\netcoreapp3.1\lukkristi_zadaca_1.exe
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\bin\Debug\netcoreapp3.1\lukkristi_zadaca_1.deps.json
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\bin\Debug\netcoreapp3.1\lukkristi_zadaca_1.runtimeconfig.json
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\bin\Debug\netcoreapp3.1\lukkristi_zadaca_1.runtimeconfig.dev.json
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\bin\Debug\netcoreapp3.1\lukkristi_zadaca_1.dll
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\bin\Debug\netcoreapp3.1\lukkristi_zadaca_1.pdb
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\obj\Debug\netcoreapp3.1\lukkristi_zadaca_1.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\obj\Debug\netcoreapp3.1\lukkristi_zadaca_1.AssemblyInfo.cs
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\obj\Debug\netcoreapp3.1\lukkristi_zadaca_1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\obj\Debug\netcoreapp3.1\lukkristi_zadaca_1.dll
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\obj\Debug\netcoreapp3.1\lukkristi_zadaca_1.pdb
+C:\Users\lukas\Documents\Electric-car-rent-prototyp_1\lukkristi_zadaca_1\lukkristi_zadaca_1\obj\Debug\netcoreapp3.1\lukkristi_zadaca_1.genruntimeconfig.cache
